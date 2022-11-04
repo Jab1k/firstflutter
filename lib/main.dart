@@ -16,8 +16,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.amber,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      showSemanticsDebugger: false,
-      debugShowMaterialGrid: false,
     );
   }
 }

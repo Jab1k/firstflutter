@@ -1,16 +1,6 @@
-# firstdars
+Visa: 4046-3200-0131-9581 (For the World)
+click: 8600572906115584 (For Uzbekistan)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UZ: Codeni kuchirishga kuchirding, 1000 sum busa xam tasha pas
+English: Donate to me please
+Rus: ок, пришлите 1 рубль
